@@ -1,1 +1,1 @@
-# sof-terminal-linux-2024
+# School of Net - Terminal linux
