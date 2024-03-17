@@ -136,3 +136,17 @@ Consultar o status de um serviço: `/etc/init.d/apache2 status`
 Iniciar um serviço: `/etc/init.d/apache2 start`
 
 Parar um serviço: `/etc/init.d/apache2 stop`
+
+Criar usuario: `adduser nome_usuario` ou `useradd nome_usuario`
+
+Adicionar senha para um usuario quando criado pelo adduser: `passwd nome_usuario`
+
+Criar usuario sem acesso ao shell: `useradd nome_usuario -s /bin/false` 
+
+Alterar o diretório home de um usuario: `usermod -d /root/nova_home nome_usuario`
+
+Deletar usuario: `userdel nome_usuario`
+
+Criar um grupo: `groupadd nome_grupo`
+
+Criar senha para grupo: `gpasswd nome_grupo`
