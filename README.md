@@ -1,6 +1,6 @@
 <img src="https://sonassets.s3.amazonaws.com/img/logo-top.png" 
         alt="Picture" 
-        height="200" 
+        width="200" 
         style="display: block; margin: 0 auto" />
 
 # School of Net - Terminal linux
