@@ -1,4 +1,4 @@
-![School of Net](https://sonassets.s3.amazonaws.com/img/logo-top.png){ width="300" style="display: block; margin: 0 auto" }
+![Picture](https://sonassets.s3.amazonaws.com/img/logo-top.png){ width="300" style="display: block; margin: 0 auto" }
  
 
 # School of Net - Terminal linux
