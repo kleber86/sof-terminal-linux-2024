@@ -1,4 +1,4 @@
-<img src="![Picture.svg](https://sonassets.s3.amazonaws.com/img/logo-top.png)" 
+<img src="https://sonassets.s3.amazonaws.com/img/logo-top.png" 
         alt="Picture" 
         width="800" 
         height="600" 
