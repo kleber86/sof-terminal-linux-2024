@@ -95,3 +95,25 @@ total 4
 -rwxrwxrwx    1 kleber   kleber           0 Mar 17 15:53 arquivo2.txt
 drwxr-sr-x    2 kleber   kleber        4096 Mar 17 15:50 pasta01
 ~~~
+
+Exibir sistemas de arquivos do SO: `df`
+
+Exibir sistemas de arquivos do SO com tipos: `df -T`
+
+Exibir sistemas de arquivos do SO com tamanhos em mb: `df -m`
+
+Exibir informações sobre memoria: `free`
+
+Exibir resumo dos tamanhos dos arquivos, pastas: `du`
+
+Exibir em formato arvore: `three -a`
+~~~bash
+.
+└── kleber
+    ├── .ash_history
+    ├── arquivo1.txt
+    ├── arquivo2.txt
+    └── pasta01
+
+2 directories, 3 files
+~~~

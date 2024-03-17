@@ -13,7 +13,7 @@
 - [x] Comandos para exibição de conteúdo
 - [x] Comandos de Compactação e descompactação
 - [x] Permissões de arquivos
-- [ ] Comandos informativos sobre o sistema
+- [x] Comandos informativos sobre o sistema
 - [ ] Comandos de pesquisa
 - [ ] Comandos de pesquisa parte 2
 - [ ] Comandos de inicialização e encerramento
