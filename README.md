@@ -3,7 +3,7 @@
         width="200" 
         style="display: block; margin: 0 auto" />
 
-# School of Net - Terminal linux
+# School of Net - Curso Terminal linux
 
 
 - [x] Introdução
@@ -19,5 +19,5 @@
 - [x] Comandos de inicialização e encerramento
 - [x] Comandos para gerenciamento de serviços
 - [x] Comandos para gerenciamento de usuários e grupos
-- [ ] Comandos para gerenciamento de processos
-- [ ] Conclusão
+- [x] Comandos para gerenciamento de processos
+- [x] Conclusão

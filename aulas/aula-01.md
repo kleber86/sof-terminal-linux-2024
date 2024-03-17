@@ -150,3 +150,11 @@ Deletar usuario: `userdel nome_usuario`
 Criar um grupo: `groupadd nome_grupo`
 
 Criar senha para grupo: `gpasswd nome_grupo`
+
+Listar o processamento atual: `top`
+
+Listar o processamento atual com mais informações: `htop`
+
+Listar os processos: `ps`
+
+Finalizar um processo: `kill numero_processo`
