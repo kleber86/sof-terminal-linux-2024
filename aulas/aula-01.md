@@ -79,3 +79,19 @@ Compactar arquivo com gzip: `tar -zcvf arquivo_compactado.tar.gz nome_arquivo.tx
 Descompactar um arquivo com gzip: `tar -xzvf arquivo_compactado.tar.gz`
 
 Compactar arquivo com bzip2: `tar -jcvf arquivo_compactado.tar.gz nome_arquivo.txt`
+
+Lista arquivos do diretório com as informações de tipo, leitura e escrita dos grupos: ´ls -l´
+~~~bash
+total 4
+-rw-r--r--    1 kleber   kleber           0 Mar 17 15:50 arquivo1.txt
+-rw-r--r--    1 kleber   kleber           0 Mar 17 15:53 arquivo2.txt
+drwxr-sr-x    2 kleber   kleber        4096 Mar 17 15:50 pasta01
+~~~
+
+Comando para alterar as permissões de um arquivo: `sudo chmod 777 arquivo2.txt` ou `chmod 777 arquivo2.txt`
+~~~bash
+total 4
+-rw-r--r--    1 kleber   kleber           0 Mar 17 15:50 arquivo1.txt
+-rwxrwxrwx    1 kleber   kleber           0 Mar 17 15:53 arquivo2.txt
+drwxr-sr-x    2 kleber   kleber        4096 Mar 17 15:50 pasta01
+~~~

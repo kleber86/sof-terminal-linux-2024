@@ -1,4 +1,5 @@
-![School of Net](https://sonassets.s3.amazonaws.com/img/logo-top.png)
+![School of Net](https://sonassets.s3.amazonaws.com/img/logo-top.png){ width="300" style="display: block; margin: 0 auto" }
+ 
 
 # School of Net - Terminal linux
 
@@ -9,7 +10,7 @@
 - [x] Comandos para manipulação de arquivos e diretórios
 - [x] Comandos para exibição de conteúdo
 - [x] Comandos de Compactação e descompactação
-- [ ] Permissões de arquivos
+- [x] Permissões de arquivos
 - [ ] Comandos informativos sobre o sistema
 - [ ] Comandos de pesquisa
 - [ ] Comandos de pesquisa parte 2
