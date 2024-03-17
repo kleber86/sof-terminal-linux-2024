@@ -57,3 +57,11 @@ Remover mais de um arquivo: `rm arquivo1.txt arquivo2.txt`
 Remover diretórios e sub-diretórios: `rm -rf nome_pasta/`
 
 Remover diretórios e sub-diretórios informando o que está sendo excluido: `rm -rfv nome_pasta/`
+
+Exibir o conteudo de um arquivo: `cat nome_arquivo.txt`
+
+Exibir o conteudo de um arquivo em partes com setas direcionais: `less nome_arquivo.txt`
+
+Exibir o conteudo de um arquivo em partes com ENTER: `more nome_arquivo.txt`
+
+Exibir o conteudo de um arquivo as ultimas linhas: `tail nome_arquivo.txt`
