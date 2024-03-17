@@ -1,5 +1,8 @@
-![Picture](https://sonassets.s3.amazonaws.com/img/logo-top.png){ width="300" style="display: block; margin: 0 auto" }
- 
+<img src="![Picture.svg](https://sonassets.s3.amazonaws.com/img/logo-top.png)" 
+        alt="Picture" 
+        width="800" 
+        height="600" 
+        style="display: block; margin: 0 auto" />
 
 # School of Net - Terminal linux
 
