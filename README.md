@@ -15,7 +15,7 @@
 - [x] Permissões de arquivos
 - [x] Comandos informativos sobre o sistema
 - [x] Comandos de pesquisa
-- [ ] Comandos de pesquisa parte 2
+- [x] Comandos de pesquisa parte 2
 - [ ] Comandos de inicialização e encerramento
 - [ ] Comandos para gerenciamento de serviços
 - [ ] Comandos para gerenciamento de usuários e grupos

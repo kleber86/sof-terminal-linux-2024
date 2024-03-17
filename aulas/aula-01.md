@@ -121,3 +121,8 @@ Exibir em formato arvore: `three -a`
 Busca em todo o sistema: `find / -name nome_arquivo ou pasta `
 
 Busca dentro do diretório atual tudo com a extensão .txt: `find . *.txt`
+
+Busca uma palavra dentro de um arquivo: `grep -n Recife arquivo1.txt`
+~~~bash
+3:Recife
+~~~
