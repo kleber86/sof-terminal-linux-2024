@@ -47,3 +47,13 @@ Copiar um arquivo: `cp nome_arquivo.txt novo_arquivos.txt`
 Copiar um direório: `cp -a nome_diretorio/ novo_diretorio`
 
 Copiar um arquivo para um diretório: `cp -f nome_arquivo.txt /home/dev/`
+
+Copiar um arquivos para um diretório com outro nome: `cp home/dev/nome_arquivo.txt home/dev/nome_alterado_arquivo.txt`
+
+Remover arquivo: `rm nome_arquivo.txt`
+
+Remover mais de um arquivo: `rm arquivo1.txt arquivo2.txt`
+
+Remover diretórios e sub-diretórios: `rm -rf nome_pasta/`
+
+Remover diretórios e sub-diretórios informando o que está sendo excluido: `rm -rfv nome_pasta/`
