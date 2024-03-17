@@ -117,3 +117,7 @@ Exibir em formato arvore: `three -a`
 
 2 directories, 3 files
 ~~~
+
+Busca em todo o sistema: `find / -name nome_arquivo ou pasta `
+
+Busca dentro do diretório atual tudo com a extensão .txt: `find . *.txt`

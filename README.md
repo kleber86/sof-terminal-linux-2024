@@ -14,7 +14,7 @@
 - [x] Comandos de Compactação e descompactação
 - [x] Permissões de arquivos
 - [x] Comandos informativos sobre o sistema
-- [ ] Comandos de pesquisa
+- [x] Comandos de pesquisa
 - [ ] Comandos de pesquisa parte 2
 - [ ] Comandos de inicialização e encerramento
 - [ ] Comandos para gerenciamento de serviços
