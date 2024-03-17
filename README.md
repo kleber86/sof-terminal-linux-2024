@@ -8,7 +8,7 @@
 - [x] Comandos de listagem
 - [x] Comandos para manipulação de arquivos e diretórios
 - [x] Comandos para exibição de conteúdo
-- [ ] Comandos de Compactação e descompactação
+- [x] Comandos de Compactação e descompactação
 - [ ] Permissões de arquivos
 - [ ] Comandos informativos sobre o sistema
 - [ ] Comandos de pesquisa

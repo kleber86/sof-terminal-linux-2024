@@ -65,3 +65,17 @@ Exibir o conteudo de um arquivo em partes com setas direcionais: `less nome_arqu
 Exibir o conteudo de um arquivo em partes com ENTER: `more nome_arquivo.txt`
 
 Exibir o conteudo de um arquivo as ultimas linhas: `tail nome_arquivo.txt`
+
+Compactar arquivo: `tar -cf arquivo_compactado.tar nome_arquivo.txt`
+
+Compactar mais de um arquivo: `tar -cf arquivo_compactado.tar nome_arquivo1.txt nome_arquivo2.txt`
+
+Compactar mais de um arquivo modo verboso: `tar -cvf arquivo_compactado.tar nome_arquivo1.txt nome_arquivo2.txt`
+
+Descompactar um arquivo: `tar -xvf arquivo_compactado.tar`
+
+Compactar arquivo com gzip: `tar -zcvf arquivo_compactado.tar.gz nome_arquivo.txt`
+
+Descompactar um arquivo com gzip: `tar -xzvf arquivo_compactado.tar.gz`
+
+Compactar arquivo com bzip2: `tar -jcvf arquivo_compactado.tar.gz nome_arquivo.txt`
