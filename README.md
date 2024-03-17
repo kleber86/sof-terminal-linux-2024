@@ -17,7 +17,7 @@
 - [x] Comandos de pesquisa
 - [x] Comandos de pesquisa parte 2
 - [x] Comandos de inicialização e encerramento
-- [ ] Comandos para gerenciamento de serviços
-- [ ] Comandos para gerenciamento de usuários e grupos
+- [x] Comandos para gerenciamento de serviços
+- [x] Comandos para gerenciamento de usuários e grupos
 - [ ] Comandos para gerenciamento de processos
 - [ ] Conclusão

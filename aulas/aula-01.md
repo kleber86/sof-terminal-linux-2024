@@ -130,3 +130,9 @@ Busca uma palavra dentro de um arquivo: `grep -n Recife arquivo1.txt`
 Reinicia o SO: `reboot`
 
 Reinicia ou desliga o SO: `shutdown`
+
+Consultar o status de um serviço: `/etc/init.d/apache2 status`
+
+Iniciar um serviço: `/etc/init.d/apache2 start`
+
+Parar um serviço: `/etc/init.d/apache2 stop`
