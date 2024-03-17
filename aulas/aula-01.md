@@ -126,3 +126,7 @@ Busca uma palavra dentro de um arquivo: `grep -n Recife arquivo1.txt`
 ~~~bash
 3:Recife
 ~~~
+
+Reinicia o SO: `reboot`
+
+Reinicia ou desliga o SO: `shutdown`

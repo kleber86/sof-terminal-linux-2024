@@ -16,7 +16,7 @@
 - [x] Comandos informativos sobre o sistema
 - [x] Comandos de pesquisa
 - [x] Comandos de pesquisa parte 2
-- [ ] Comandos de inicialização e encerramento
+- [x] Comandos de inicialização e encerramento
 - [ ] Comandos para gerenciamento de serviços
 - [ ] Comandos para gerenciamento de usuários e grupos
 - [ ] Comandos para gerenciamento de processos
